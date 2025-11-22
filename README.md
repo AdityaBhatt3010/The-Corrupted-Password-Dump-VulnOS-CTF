@@ -1,4 +1,4 @@
-# 🔐 The Corrupted Password Dump — A Gentle Walk Through Hash Chaos 🗿🔥
+# 🔐 The Corrupted Password Dump — A Gentle Walk Through Hash Chaos
 
 **VulnOS Lab 85** <br/>
 **Lab Link:** [https://learn.vulnos.tech/lab/environment.html?id=85](https://learn.vulnos.tech/lab/environment.html?id=85) <br/>
